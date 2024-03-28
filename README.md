@@ -14,7 +14,7 @@ Why Excel?
 -With its built-in features such as pivot tables, data tables, and various statistical functions, Excel is widely used in many industries, from finance and accounting to marketing and sales.
 
 Why SQL?
--SQL empowers data scientists to efficiently query and handle vast datasets. 
+-SQL empowers data scientists to efficiently query and handle vast datasets.
 -Nowadays, Data Science is the Most In-Demand Profession In the field of IT.
 -Currently, a majority of companies are moving towards a data-centric approach.
 
