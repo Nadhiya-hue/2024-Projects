@@ -3,8 +3,8 @@ This Reposistory For My Projects In 2024 Year.
 
 Data Analysis Project on 2024.
 Why Data Analyst?
--Data analysis is important because it gives decision-makers tangible information on which to base their strategy. 
--This information has a wide range of applications, from improving systems and processes to better understanding clients and even human behavior.
+1.Data analysis is important because it gives decision-makers tangible information on which to base their strategy. 
+2.This information has a wide range of applications, from improving systems and processes to better understanding clients and even human behavior.
 
 Projects Regarding SQL, Power BI, Python and Excel.
 
